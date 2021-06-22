@@ -1,0 +1,14 @@
+.terraform*
+terraform.tfstate
+*.err
+*.log
+*.pot
+*.pyc
+*.pid
+
+# pycharm
+.idea
+
+.env
+
+gitlab/*
